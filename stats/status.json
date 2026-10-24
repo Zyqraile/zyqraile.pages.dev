@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "name": "Zyqraile Cloud Database EU",
+      "status": "operational"
+    },
+    {
+      "name": "Zyqraile Cloud Servers EU",
+      "status": "operational"
+    }
+  ]
+}
